@@ -1,4 +1,4 @@
-# Eclipse
+# IntelliJ
 ## Task 1: Provision the VM and Dependent Resources
 
 1. Create the VM and dependent resources.
