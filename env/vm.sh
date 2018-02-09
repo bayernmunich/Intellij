@@ -47,7 +47,7 @@ apt-get install xrdp -y
 apt-get install gnome-terminal -y
 
 cd /mnt
-git clone https://github.com/bayernmunich/Eclipse.git
+git clone https://github.com/bayernmunich/Intellij.git
 
 cd /mnt/java-dev-vsts
 git checkout $branch
